@@ -1,0 +1,16 @@
+{
+  "name": "entrevista",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ex1": "node ./src/ex1",
+    "ex2": "node ./src/ex2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "entrevista": "file:"
+  }
+}
